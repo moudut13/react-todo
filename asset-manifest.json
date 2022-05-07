@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/react-todo/static/css/main.db00a867.css",
-    "main.js": "/react-todo/static/js/main.951e7427.js",
+    "main.css": "/react-todo/static/css/main.deff6d5d.css",
+    "main.js": "/react-todo/static/js/main.61935a88.js",
+    "static/media/bootstrap.min.css.map": "/react-todo/static/media/bootstrap.min.css.a058b47cb0131a6584e9.map",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-todo/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/react-todo/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-todo/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
     "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-todo/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-todo/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/react-todo/index.html",
-    "main.db00a867.css.map": "/react-todo/static/css/main.db00a867.css.map",
-    "main.951e7427.js.map": "/react-todo/static/js/main.951e7427.js.map"
+    "main.deff6d5d.css.map": "/react-todo/static/css/main.deff6d5d.css.map",
+    "main.61935a88.js.map": "/react-todo/static/js/main.61935a88.js.map"
   },
   "entrypoints": [
-    "static/css/main.db00a867.css",
-    "static/js/main.951e7427.js"
+    "static/css/main.deff6d5d.css",
+    "static/js/main.61935a88.js"
   ]
 }
