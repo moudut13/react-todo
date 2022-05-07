@@ -2,6 +2,7 @@ import React ,{useState} from 'react';
 import {v4 as uuidv4} from "uuid";
 
 import './BootStrap.css';
+import './bootstrap.min.css.map';
 import NewTodo from './NewTodo';
 import Todos from './Todos';
 
@@ -18,7 +19,7 @@ function Home() {
 
     const handleRemoveTodo = (id) =>{
       setTodo((prevTodo) => {
-        const filterTodo = prevTodo.filter((todo) =>todo.id != id);
+        const filterTodo = prevTodo.filter((todo) =>todo.id !== id);
         return filterTodo;
 
       });
