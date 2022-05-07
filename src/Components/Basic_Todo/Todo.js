@@ -5,7 +5,7 @@ import Todos from './Todos';
 import './Todo.css';
 
 //Data list
-const data = ["Todo 1", "Todo 2", "Todo 3"];
+const data = ["Todo 1"];
 
 function Todo() {
 
