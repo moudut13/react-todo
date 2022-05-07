@@ -1,0 +1,11 @@
+.Todo{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.TodoList{
+    font-size: 20px;
+    font-weight: 800;
+    color: #1d9b9b;
+}
